@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's <mark>Haneul Chae</mark>.
-  I was born in 1995 and I am <mark>27</mark> years old now.(Based on 2021)
-  If you want to contact me, please text me at <mark>010-9903-5392</mark>. by I.N: (+82)10-9903-5392
+  Hi, my name's <mark>Haneul Chae</mark>.<br>
+  I was born in 1995 and I am <mark>27</mark> years old now.(Based on 2021)<br>
+  If you want to contact me, please text me at <mark>010-9903-5392</mark>. by I.N: (+82)10-9903-5392<br>
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
