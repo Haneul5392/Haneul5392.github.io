@@ -96,29 +96,27 @@ content:
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+      - layout: left
+        title: Kit Engineering Pair
+        caption: 2019
+        sub_title: <mark>Silver</mark> Prize
 
+      - layout: left
+        title: Apply for a patent
+        caption: 2019
+        sub_title: 온수 임시 보관 구조를 갖는 컵라면 용기 <mark>10-2019-0170189</mark>
+
+      - layout: left
+        title: Apply for a patent
+        caption: 2020
+        sub_title: 스프레이용 발수 코팅제 조성물 <mark>10-2020-0009832</mark>
 
   - title: A Little More About Me + Reference
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+    #content: | # this will include new lines to allow paragraphs
+    #  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    #  - Rock climbing
+    #  - Gaming
 
 
 # Footer
