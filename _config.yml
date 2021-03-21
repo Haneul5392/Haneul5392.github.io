@@ -62,19 +62,11 @@ content:
         title: Kumoh Institute of Technology
         caption: 2014 - 2020
         sub_title: Bachelor of Material Design Engineering
-        quote: >
-          금오공과대학교  
-        description: | # this will include new lines to allow paragraphs
-          저는 이러한 활동을 했습니다.
 
-      - layout: left
+      - layout: right
         title: Kumoh Institute of Technology
         caption: 2020 - present
         sub_title: Master of Material Design Engineering
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          저는 이러한 활동을 하고있습니다.
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
