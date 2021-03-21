@@ -71,27 +71,27 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Field Placement
+      - layout: top-middle
+        title: '#1'
         link: 
         # link_text: boringcompany.com
         sub_title: KOREA TEXTILE DEVELOPMENT INSTITUTE
         caption: 2020
         quote: >
-          ??
-        description: | # this will include new lines to allow paragraphs
-            ??설명??
+          Field Placement
+        # description: | # this will include new lines to allow paragraphs
 
-      - layout: left
-        title: rHTPE 복합사를 활용한 온도조절 다층복합<br>수중수상 레포츠용 안전보호복 개발
+
+      - layout: middle
+        title: '#2'
         link: 
         # link_text: boringcompany.com
         sub_title: Kumoh National Institute of Technology(a student researcher)
         caption: In progress from 2020 to now
         quote: >
-          ??
-        description: | # this will include new lines to allow paragraphs
-            ??설명??
+          rHTPE 복합사를 활용한 온도조절 다층복합 수중수상 레포츠용 안전보호복 개발
+        # description: | # this will include new lines to allow paragraphs
+
 
   - title: Honors and Awards # Title for the section
     layout: list # Type of content section (list/text)
