@@ -82,7 +82,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
 
 
-      - layout: middle
+      - layout: top-middle
         title: '#2'
         link: 
         # link_text: boringcompany.com
